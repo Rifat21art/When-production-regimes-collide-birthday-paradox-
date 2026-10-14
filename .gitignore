@@ -1,0 +1,20 @@
+@"
+# Environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Python build junk
+*.pyc
+
+# Excluded outputs
+*.pdf
+outputs/**/*.pdf
+
+# Exclude readmes except we don't want ANY readme
+README.md
+**/README.md
+data/README.md
+
+# Exclude the data README specifically (if it lives at data/README.md)
+"@ | Out-File -Encoding utf8 .gitignore

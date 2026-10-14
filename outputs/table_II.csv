@@ -1,0 +1,6 @@
+﻿Regime familiarity (training count F),n,Failures,Failure rate (95% CI)
+Unseen (F = 0),59,0,0.00% (0.0–6.1)
+Rare (1–18),2628,52,1.98% (1.5–2.6)
+Lower-mid (19–40),2461,85,3.45% (2.8–4.3)
+Upper-mid (41–84),2407,95,3.95% (3.2–4.8)
+Common (>84),2445,107,4.38% (3.6–5.3)
